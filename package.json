@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-config",
+  "name": "@doop/config",
   "version": "1.0.0",
   "description": "A config service for the Doop framework",
   "repository": {
