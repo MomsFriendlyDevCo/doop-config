@@ -4,7 +4,7 @@
   "description": "A config service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-config.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-config.git"
   },
   "keywords": [
     "doop"
@@ -12,10 +12,7 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-config/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-config/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-config#readme",
-  "workspaces": [
-    "../*"
-  ]
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-config#readme"
 }
